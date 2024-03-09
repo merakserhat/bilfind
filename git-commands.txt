@@ -1,0 +1,10 @@
+git clone https://github.com/CS319-23-FA/S3T11-bilfind.git
+
+git branch branchAdi -> branch aç
+git checkout branchAdi -> branch değiştir
+
+git add . -> commitlenecek her dosyaları commite ekle
+
+git commit -m "ne isim vereceksen commite" -> commitle
+
+git push origin branchAdi
