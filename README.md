@@ -9,6 +9,9 @@ An application that connects Bilkenters.
 [Kaan Türkoğlu](https://github.com/kaanturkoglu)\
 [Ege Karaahmetoğlu](https://github.com/egekaraahmetoglu)
 
+**Demo Video**
+[![WispNote demo](https://img.youtube.com/vi/Z2mO0DqK378/maxresdefault.jpg)](https://youtu.be/Z2mO0DqK378)
+
 ## Reports
 User Manual for the Website: https://github.com/CS319-23-FA/S3T11-bilfind/blob/main/User_Manual_BilFind.pdf
 
@@ -19,8 +22,6 @@ D1-D2 Final Report: https://github.com/CS319-23-FA/S3T11-bilfind/blob/main/D1-D2
 D3 Video: https://drive.google.com/file/d/1Mecj1vWvS2dYG5EaCpHWD9DnUJZQubBU/view
 
 D4-D5 Final Report: https://github.com/CS319-23-FA/S3T11-bilfind/blob/main/D4-D5%20_Final_Report.pdf
-
-Demo Video: https://youtu.be/Z2mO0DqK378
 
 ## Description
 **BilFind** is motivated by creating a campus-exclusive social marketplace for the Bilkent University community. We understand that within the vibrant ecosystem of a university, there is a constant exchange of resources, information, and goodwill. However, this often occurs through non-centralized, for-profit, and unsafe platforms. **BilFind** aims to leverage the power of technology to enhance this exchange, making it easier for students, faculty, and staff to connect and collaborate.
